@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://tyagi-apoorva.io)
 <h1 align="center">Hi 👋, I'm Apoorva Tyagi</h1>
 <h3 align="center">Pre-Final Year Computer Science Engineering Student from Graphic Era University, Dehradun U.K (India)</h3>
-<img align="right" alt="coding" width="400" src = "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010133.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyagi-apoorva&label=Profile%20views&color=0e75b6&style=flat" alt="tyagi-apoorva" /> </p>
 
 - 💬 Ask me about **machine learning, react, web development, python**
@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/apoorva-tyagi-2a859522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apoorva-tyagi-2a859522a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apoorva-tyagi-2a859522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/apoorva-tyagi-2a859522a/" height="30" width="40" /></a>
 <a href="https://instagram.com/tyagi_apoorva_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyagi_apoorva_28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/apoorva_tyagi_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/apoorva_tyagi_28/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@tyagi_apoorva_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tyagi_apoorva_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tyagi_apoorva_21?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tyagi_apoorva_21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/apoorva_tyagi_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/apoorva_tyagi_28/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
