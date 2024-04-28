@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://tyagi-apoorva.io)
 <h1 align="center">Hi 👋, I'm Apoorva Tyagi</h1>
-<h3 align="center">Pre-Final Year Computer Science Engineering Student from Graphic Era University, Dehradun U.K (India)</h3>
+<h3 align="center">Software Engineer, Final Year Computer Science Engineering Student from Graphic Era University, Dehradun U.K (India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyagi-apoorva&label=Profile%20views&color=0e75b6&style=flat" alt="tyagi-apoorva" /> </p>
 
